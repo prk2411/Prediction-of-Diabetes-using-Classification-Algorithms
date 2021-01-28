@@ -16,9 +16,10 @@ We took dataset from kaggle which originally registered as the public dataset na
 As it is clearly visible that all three models works similar for this dataset. So the best suprvised Machine Learning algorithm is Support Vector Classifier (SVC) with the 82% accuracy and 0.76 Precision on test dataset in respective to other data models for this experiment.
 The results we have obtained are within the range expected in the project proposal (75-80%), which is a good indicator as we have got results in the upper bound of expected range.
 
-|Model |	Accurary % | Recall |	Precision	| F-Measure	| ROC
-|0	|SVC	|0.82	|0.62	|0.76	|0.68	|0.77
-|1	|Decision Tree	|0.78	|0.45	|0.72	|0.55	|0.69
-|2	|GaussianNB	|0.76	|0.62	|0.67	|0.64	|0.74
-|3	|Random Forest	|0.81	|0.55	|0.74	|0.63	|0.73
-|4	|XGBoost	|0.78	|0.55	|0.67	|0.60	|0.72
+|Model |	Accurary % | Recall |	Precision	| F-Measure	| ROC |
+|------|-------------|---------|----------|-----------|-----|
+|0	|SVC	|0.82	|0.62	|0.76	|0.68	|0.77|
+|1	|Decision Tree	|0.78	|0.45	|0.72	|0.55	|0.69|
+|2	|GaussianNB	|0.76	|0.62	|0.67	|0.64	|0.74|
+|3	|Random Forest	|0.81	|0.55	|0.74	|0.63	|0.73|
+|4	|XGBoost	|0.78	|0.55	|0.67	|0.60	|0.72|
