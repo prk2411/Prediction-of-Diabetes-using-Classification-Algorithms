@@ -18,7 +18,7 @@ The results we have obtained are within the range expected in the project propos
 
 |Model |	Accurary % | Recall |	Precision	| F-Measure	| ROC |
 |------|-------------|---------|----------|-----------|-----|
-|0	|SVC	|0.82	|0.62	|0.76	|0.68	|0.77|
+|0	|**SVC	|0.82	|0.62	|0.76	|0.68	|0.77|**
 |1	|Decision Tree	|0.78	|0.45	|0.72	|0.55	|0.69|
 |2	|GaussianNB	|0.76	|0.62	|0.67	|0.64	|0.74|
 |3	|Random Forest	|0.81	|0.55	|0.74	|0.63	|0.73|
